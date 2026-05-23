@@ -1,3 +1,4 @@
+test2
 Git feature
 commit 4
 Good commit
