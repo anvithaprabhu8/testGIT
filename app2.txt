@@ -1,3 +1,4 @@
 Git feature
 commit 4
 Good commit
+Bad commit
